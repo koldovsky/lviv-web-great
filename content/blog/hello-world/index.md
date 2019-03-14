@@ -1,6 +1,6 @@
 ---
 title: Let's Make Web Great Again in Lviv
-date: "2015-05-01T22:12:03.284Z"
+date: "2019-03-14T22:12:03.284Z"
 description: Hello Lviv
 ---
 
